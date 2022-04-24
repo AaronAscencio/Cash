@@ -35,3 +35,7 @@ Change owed: 0.41 <br />
 - Download or clone this repository
 - ` $ python cash.py `
 - Enter a number
+# Additional considerations
+- If the user enters a zero, the program will return zero, since there is no amount of coins to return.
+- The files main.py and test_main .py contain unit tests of the function that calculates the minimum amount of coins, for which PyTest was implemented.
+
