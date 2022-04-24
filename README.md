@@ -32,4 +32,4 @@ Change owed: foo <br />
 Change owed: 0.41 <br />
 4 <br />
 # How to run
-'python cash.py'
+' python cash.py '
