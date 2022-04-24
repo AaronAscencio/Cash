@@ -32,4 +32,6 @@ Change owed: foo <br />
 Change owed: 0.41 <br />
 4 <br />
 # How to run
-`$ python cash.py`
+- Download or clone this repository
+- ` $ python cash.py `
+- Enter a number
