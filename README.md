@@ -18,3 +18,16 @@ Incidentally, so that we can automate some tests of your code, we ask that your 
 last line of output be only the minimum number of coins possible: an integer followed by a <br />
 new line (i.e. print() line). <br />
 Hint: Convert dollars to cents. <br />
+# Usage
+Your program should behave per the example below. Assume that the underlined text is what <br />
+some user has typed: <br />
+$ python cash.py <br />
+Change owed: 0.41 <br />
+4 <br />
+# Testing
+$ python cash.py <br />
+Change owed: -0.41 <br />
+Change owed: -0.41 <br />
+Change owed: foo <br />
+Change owed: 0.41 <br />
+4 <br />
