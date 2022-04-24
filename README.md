@@ -40,6 +40,9 @@ Change owed: 0.41 <br />
 - If the user enters a zero, the program will return zero, since there is no amount of coins to return.
 - The files main.py and test_main .py contain unit tests of the function that calculates the minimum amount of coins, for which PyTest was implemented.
 # ScreenShots
+- Image 1.1-Test described in the problem
 [![s.jpg](https://i.postimg.cc/x1cxZ0Vg/s.jpg)](https://postimg.cc/tsGNZGTV) <br/>
+- Image 1.2-Input 9.75
 [![s.jpg](https://i.postimg.cc/zBJT9jR5/s.jpg)](https://postimg.cc/nsPsmqkw) <br/>
+- Image 1.3-Input 0
 [![s.jpg](https://i.postimg.cc/hjP7CtHt/s.jpg)](https://postimg.cc/7Cd6hwHF) <br/>
