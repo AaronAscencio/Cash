@@ -2,7 +2,7 @@
 Implement a program that calculates the minimum number of coins required to give a user
 change.
 # Implementation Details
-Write, in a file called cash.py, a program that first asks the user how much change is owed \n
+Write, in a file called cash.py, a program that first asks the user how much change is owed <br />
 and then spits out the minimum number of coins with which said change can be made.
 Get the user’s input and print to output your answer. Assume that the only coins available are
 quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢).
